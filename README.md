@@ -10,6 +10,15 @@ and needs insights about:
 We built a complete **ETL pipeline** and an interactive **Power BI Dashboard** 
 to provide actionable insights.
 
+## ETL Pipeline
+![ETL Pipeline](Images/ERTL pipeline.gif)
+
+##  Power BI Dashboard Pages
+![Home Page](Images/Home Page.png)
+![Movies Page](Images/Movies Page.png)
+![Directors Page](Images/Directors Page.png)
+
+
 ---
 
 ## Project Structure
